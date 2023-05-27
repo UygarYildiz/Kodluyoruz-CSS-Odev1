@@ -1,0 +1,25 @@
+.text-red{
+    color:red
+}
+.ortala{
+    text-align: center;
+    display: block;
+}
+.linkortala{
+    display: inline-block;
+    margin-left: 30%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+.margin-right{
+    margin-right: 10px;
+}
+p{
+    text-align: center;
+    font-size: 30;
+}
+.heights{
+    height: 300px;
+    width: 500px;
+}
